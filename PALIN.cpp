@@ -142,4 +142,3 @@ int main()
         cout<<s<<endl;
     }
 } 
-Source code | Plain text | Copy to submit
