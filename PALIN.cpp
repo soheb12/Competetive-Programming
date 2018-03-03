@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 #define ll long long
 #define for(a,n) for(ll i=a;i<n;i++)
- 
 using namespace std;
  
 int main()
